@@ -1,3 +1,4 @@
+//improt requetion libraries 
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -79,6 +80,7 @@ int main() {
 
     printf("After deletion:\n");
     display(head);
+    printf("Thank You");
 
     return 0;
 }
